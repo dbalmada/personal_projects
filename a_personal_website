@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My COVID summer 2021</title>
+    <link rel="stylesheet" href="personal.css">
+</head>
+
+<body>
+
+    <div class="bg-image"></div>
+
+    <div class="bg-text">
+        <h2 class="title">A story about my summer</h2>
+
+
+        <h3>What would you do alone in Venice?</h3>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti quasi, adipisci odit quas ad eius
+            consequatur
+            voluptatibus architecto dignissimos voluptates velit sunt neque eaque animi maiores rerum nostrum
+            debitis
+            perferendis?
+            Nihil beatae eos odit dolor distinctio aspernatur numquam repudiandae. Fugiat, repellendus ipsam quis
+            magni
+            adipisci quia, explicabo quo architecto voluptate et ullam, amet aliquam modi natus unde eum accusamus
+            nemo.
+            Aut, perspiciatis dolorem doloribus atque voluptatibus quam? Vel possimus id maxime tenetur quia.
+            Aspernatur,
+            eligendi voluptates excepturi in quam quaerat vero ad unde, officiis dolores temporibus ut tempore.
+            Facere,
+            ipsum.
+            Iure delectus ut hic repellat at minus sed asperiores quas quod quasi doloribus nam, beatae reiciendis
+            quibusdam, modi veritatis ducimus atque sequi earum. Sapiente incidunt mollitia, tempore hic et
+            praesentium!
+
+        </p>
+
+    </div>
+
+
+</body>
+
+</html>
